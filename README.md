@@ -11,7 +11,7 @@ Ver      Date        Author        Description
 NOTES:
 This is the Student version of the Data Analysis (DA) repository
 
-This project was originally built for BA 380 offered at LDS Business College starting in Fall 2020 by Jon Jaussi (JJAUSSI).
+This project was originally built for BA 280 offered at LDS Business College starting in Fall 2020 by Jon Jaussi (JJAUSSI).
 The purpose of this course is Advanced Data Analytics.
 
 
